@@ -1,2 +1,7 @@
-# Best-Star-Wars-Film
-This program utilizes Amaxon's Alexa to simply tell you the Best Star Wars film.
+# Invocation:
+  # - best star wars
+# Interaction Commands:
+  # - what's the best star wars film
+  # - best star wars film
+  # - best star wars
+  # - educate me
